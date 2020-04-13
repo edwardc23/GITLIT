@@ -81,9 +81,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3178" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586741995508">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="1258" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586743523759">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="3178" y="422" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586741995508" />
+    <state x="1258" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586743523759" />
   </component>
 </project>
